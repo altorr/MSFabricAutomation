@@ -35,7 +35,7 @@ Provide the following details:
 <img src="Media/04-AutomationcreationNetworking.png" width="400"/>
 
 # Fabric Autorization for Automation Account
-1, Go to Fabric Service and select "Access control" section
+1. Go to Fabric Service and select "Access control" section
 <img src="Media/05-FabricAccessControl.png" width="400"/>
 
 2. Select Add role
