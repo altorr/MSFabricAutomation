@@ -10,6 +10,9 @@ This repository contains the process to execute Azure Automation Runbooks to do 
 1. In the search bar, type "Automation Accounts" and select the service.
 2. Click “+ Create” or “+ Add”.
 
+<img src="Media/01-Automationcreation.png" width="300"/>
+
+
 **Step 3: Fill in the Basic Information**
 Provide the following details:
 1. Subscription: Choose the subscription where you want to create the account.
